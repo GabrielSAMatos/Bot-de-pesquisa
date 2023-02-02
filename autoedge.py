@@ -1,5 +1,4 @@
 import pyautogui
-from time import sleep
 
 pyautogui.click(1232,296)
 pyautogui.write('oi')
