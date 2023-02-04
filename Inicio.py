@@ -5,8 +5,8 @@ pyautogui.click(1295,227, duration=0.5) #clica na barra
 pyautogui.write('Microsoft rewards') #digita
 pyautogui.click(1570,225, duration=0.5) #pesquisa
 pyautogui.click(1133,969, duration=1) #aceita
-pyautogui.click(1284,259, duration=0.5) #abre o site
-pyautogui.click(1407,190, duration=1) #aceita
+pyautogui.click(1284,295, duration=0.5) #abre o site
+pyautogui.click(1407,190, duration=1.5) #aceita
 pyautogui.click(1848,91, duration=1) #fecha
 pyautogui.click(1105,580, duration=1) #registre-se
 pyautogui.click(1230,27, duration=1.5) #fecha a aba
@@ -61,19 +61,19 @@ pyautogui.click(1692,26, duration=1) #fecha aba
 pyautogui.click(1471,26, duration=0.3)# fecha aba 2
 #Pontos por abrir as páginas
 pyautogui.click(1865,525, duration=1.5)# barra de rolagem 1
-pyautogui.click(1679,117, duration=1)# abre 1
+pyautogui.click(1686,567, duration=1)# abre 1
 pyautogui.click(1473,25, duration=0.3)# fecha 1
-pyautogui.click(1155,353, duration=1)# abre 2
+pyautogui.click(1121,760, duration=1)# abre 2
 pyautogui.click(1473,25, duration=0.3)# fecha 2
-pyautogui.click(1394,354, duration=1)# abre 3 
+pyautogui.click(1344,778, duration=1)# abre 3 
 pyautogui.click(1473,25, duration=0.3)# fecha 3
 pyautogui.click(1695,334, duration=1)# abre 4
-pyautogui.click(1473,25, duration=0.3)# fecha 4
+pyautogui.click(1660,793, duration=0.3)# fecha 4
 pyautogui.click(1153,727, duration=1)# abre 5
 pyautogui.click(1473,25, duration=0.3)# fecha 5
 pyautogui.click(1864,875, duration=1.5)# barra de rolagem 2
 #Pesquisa rewards
-pyautogui.click(1626,112, duration=1) # abre rewards
+pyautogui.click(1681,306, duration=1) # abre rewards
 pyautogui.click(1094,944, duration=2)
 pyautogui.click(980,863, duration=0.5)
 pyautogui.click(1282,933, duration=1)
@@ -88,7 +88,7 @@ pyautogui.click(980,863, duration=0.5)
 pyautogui.click(1133,939, duration=1)
 pyautogui.click(1473,25, duration=1) # fecha pesquisa 1
 #Pesquisa bonus
-pyautogui.click(1147,353, duration=1) # abre pesquisa bonus
+pyautogui.click(1126,691, duration=1) # abre pesquisa bonus
 pyautogui.click(1094,944, duration=2)
 pyautogui.click(980,863, duration=0.5) #
 pyautogui.click(1443,964, duration=1)
@@ -103,7 +103,7 @@ pyautogui.click(980,863, duration=0.5)
 pyautogui.click(1106,933, duration=1)
 pyautogui.click(1473,25, duration=1)# fecha pesquisa 2
 #Pesquisa micro
-pyautogui.click(1387,354, duration=1) # abre pesquisa microsoft
+pyautogui.click(1347,696, duration=1) # abre pesquisa microsoft
 pyautogui.click(1094,944, duration=2)
 pyautogui.click(980,863, duration=0.5) #
 pyautogui.click(1207,930, duration=1)
