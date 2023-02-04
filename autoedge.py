@@ -2,7 +2,7 @@ import pyautogui
 
 pyautogui.click(1232,296)
 pyautogui.write('2')
-pyautogui.click(1656,290, duration=1)
+pyautogui.click(1656,290)
 
 for i in range(15):
     i = i + 1
