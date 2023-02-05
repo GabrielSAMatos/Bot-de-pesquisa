@@ -5,7 +5,7 @@ pyautogui.click(1295,227, duration=0.5) #clica na barra
 pyautogui.write('Microsoft rewards') #digita
 pyautogui.click(1570,225, duration=0.5) #pesquisa
 pyautogui.click(1133,969, duration=1) #aceita
-pyautogui.click(1284,295, duration=0.5) #abre o site
+pyautogui.click(1266,261, duration=0.5) #abre o site
 pyautogui.click(1407,190, duration=1.5) #aceita
 pyautogui.click(1848,91, duration=1) #fecha
 pyautogui.click(1105,580, duration=1) #registre-se
