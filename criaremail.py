@@ -8,7 +8,7 @@ pyautogui.click(1442,525, duration=1.5) #click em Cria uma!
 pyautogui.click(1567,515, duration=1) # click em @outlook
 pyautogui.click(1570,587, duration=0.1) # click em @hotmail
 pyautogui.click(1349,533) #click na barra
-pyautogui.write('gabrielsamatos17')
+pyautogui.write('gabrielsamatos21')
 pyautogui.click(1585,644) # click em proximo
 pyautogui.click(1365,533, duration=1) # click em digitar
 pyautogui.write('G@briel7')
